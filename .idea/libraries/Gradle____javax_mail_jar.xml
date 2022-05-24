@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./javax.mail.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/javax.mail.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

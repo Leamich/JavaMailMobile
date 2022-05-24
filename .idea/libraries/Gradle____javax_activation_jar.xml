@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./javax.activation.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/javax.activation.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
